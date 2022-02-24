@@ -45,3 +45,7 @@ This repo consists of :
 - **PYTHON LIBRARIES USED**
   - Sklearn
   - TensorFlow
+  - Keras
+  - Numpy
+  - Pandas
+  - Matplotlib
