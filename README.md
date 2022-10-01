@@ -1,7 +1,7 @@
 # AI-ML-DS-Learning-Series 🤖
 
 After completion of ML course from Stanford University I thought of exploring more ML algorithms and making models in python using inbuilt libraries. This repo consists of all the basic models of algorithms that I have encountered in my AI journey. 
-This repo consists of : 
+Contents are as follows: 
 
 - **REGRESSION**
   - Simple Linear Regression
